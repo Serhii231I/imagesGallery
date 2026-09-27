@@ -1,0 +1,24 @@
+{
+  "name": "imagesgallery",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.11",
+    "@types/react-dom": "^19.2.3",
+    "@types/react-modal": "^3.16.3",
+    "typescript": "~6.0.2",
+    "vite": "^8.3.0"
+  },
+  "dependencies": {
+    "axios": "^1.13.4",
+    "react-hot-toast": "^2.6.0",
+    "react-loader-spinner": "^8.0.2",
+    "react-modal": "^3.16.3"
+  }
+}
